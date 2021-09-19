@@ -1,0 +1,38 @@
+.bg {
+  background-image: linear-gradient(
+    to bottom,
+    #fbf8fa,
+    #f6eef9,
+    #eae6fc,
+    #d6e1ff,
+    #bbddff,
+    #abd8ff,
+    #99d3ff,
+    #85ceff,
+    #8ec3ff,
+    #abb4ff,
+    #d39fff,
+    #f986ea
+  );
+  height: 39.5rem;
+  width: 100%;
+}
+.input-group {
+  position: absolute;
+  width: 50rem;
+  margin-left: 17rem;
+}
+.outerBorder {
+  border-style: solid;
+  border-radius: 2rem;
+  padding: 10rem 5rem 10rem 5rem;
+  margin-top: 4rem;
+  box-shadow: 4px 6px;
+}
+.btn-box {
+  margin-top: 10%;
+  margin-left: 40%;
+}
+.btn {
+  color: white;
+}
