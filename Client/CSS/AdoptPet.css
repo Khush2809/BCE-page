@@ -1,0 +1,56 @@
+body {
+  background-color: #ffe6e6;
+}
+.carousel-container {
+  height: 50%;
+  width: 85%;
+}
+.adoptPet {
+  width: 95%;
+  background-image: linear-gradient(
+    to right top,
+    #322b2f,
+    #3f363e,
+    #4b4150,
+    #544e63,
+    #5a5c77,
+    #58608a,
+    #53659e,
+    #486ab2,
+    #4262c7,
+    #4d56d8,
+    #6644e4,
+    #861be9
+  );
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 4rem;
+  border-radius: 5px;
+}
+.inner-border {
+  border: 1px solid #293d3d;
+  width: 98%;
+  padding: 1%;
+  border-radius: 10px;
+}
+.outer-border {
+  border: 5px solid #293d3d;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  padding: 1%;
+  border-radius: 10px;
+}
+.adoptPet-content {
+  width: 95%;
+  font-size: 2rem;
+  margin-left: 5%;
+}
+.card-text {
+  font-family: "Exo", sans-serif;
+}
+.content {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1.2rem;
+}
